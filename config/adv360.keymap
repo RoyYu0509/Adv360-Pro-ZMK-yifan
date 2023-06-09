@@ -93,7 +93,7 @@
  &trans    &trans  &trans  &trans  &trans  &trans                     &trans                                                    &trans  &trans    &trans    &kp UP     &trans  &trans  &trans
  &trans     &none  &trans  &trans  &trans  &trans                     &trans    &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp LEFT  &kp DOWN  &kp RIGHT  &trans  &trans
  &trans    &trans   &none   &none   &none  &trans                     &trans    &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans    &trans    &trans     &trans  &trans  &trans
- &trans  &kp LALT  &trans  &trans  &trans                    &kp RIGHT_SHIFT  &kp LGUI  &trans                  &trans  &trans  &trans            &trans  &kp BSPC     &trans  &trans  &trans
+ &trans  &kp LALT  &trans  &trans  &tog 0                    &kp RIGHT_SHIFT  &kp LGUI  &trans                  &trans  &trans  &trans            &trans  &kp BSPC     &trans  &trans  &trans
             >;
         };
 
